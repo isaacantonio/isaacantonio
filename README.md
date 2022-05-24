@@ -8,7 +8,7 @@
 
 # Ferramentas e tecnologias que tenho conhecimento / estou estudando
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="70" height="70" />
 
 
 <!---
