@@ -1,5 +1,5 @@
 ## Olá, mundo! Me chamo Isaac.
- - Atualmente estagiando na aréa de análise e gerenciamento de dados
+ - Atualmente estagiando como desenvolvedor Full-Stack
 # Sobre mim
  - Formado em Técnico em Informática pelo IFPB 💻
  - Graduando em Engenharia de Computação pelo IFPB 💻
