@@ -1,12 +1,12 @@
 ## Olá, mundo! Me chamo Isaac.
- - Atualmente estagiando como desenvolvedor Full-Stack
+ - Sou desenvolvedor Full-Stack
 # Sobre mim
  - Formado em Técnico em Informática pelo IFPB 💻
- - Graduando em Engenharia de Computação pelo IFPB 💻
+ - Formado em Engenharia de Computação pelo IFPB 💻
  - Amo aprender e explorar coisas novas 😬
  - Tecnologia ❤️
 
-# Ferramentas e tecnologias que tenho conhecimento / estou estudando
+# Ferramentas e tecnologias que tenho conhecimento
 
 <h1>
 
