@@ -3,8 +3,6 @@
 # Sobre mim
  - Formado em Técnico em Informática pelo IFPB 💻
  - Formado em Engenharia de Computação pelo IFPB 💻
- - Amo aprender e explorar coisas novas 😬
- - Tecnologia ❤️
 
 # Ferramentas e tecnologias que tenho conhecimento
 
