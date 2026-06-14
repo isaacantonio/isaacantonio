@@ -1,32 +1,84 @@
-## Olá, mundo! Me chamo Isaac.
- - Sou desenvolvedor Full-Stack
-# Sobre mim
- - Formado em Técnico em Informática pelo IFPB 💻
- - Formado em Engenharia de Computação pelo IFPB 💻
+<div align="center">
 
-# Ferramentas e tecnologias que tenho conhecimento
+# Olá, sou Isaac Antônio 👋
 
-<h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--antonio--barbosa-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/isaac-antonio-barbosa/)
+[![GitHub](https://img.shields.io/badge/GitHub-isaac--antonio-181717?style=flat-square&logo=github)](https://github.com/isaac-antonio)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" height="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" height="90" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"           width="90" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="90" width="90"/>
-
-
-<h1/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="90" height="90"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="90" height="90"     /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90" height="90"    /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90" height="90"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="90" height="90"/><img 
-src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-1536x1536.png" width="90" height="90"/> 
-
-
-### Contatos:
-
-<div>
-<a href="https://www.instagram.com/_isaacantony/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:isaacasb16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isaac-ant%C3%B4nio-b2bb85173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+---
 
+### 🧑‍💻 Sobre mim
 
-<!---
-isaacantonio/isaacantonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor **Full Stack** com experiência em sistemas críticos, dashboards analíticos e integração de equipamentos médicos em tempo real. Atuo com foco em **performance**, arquiteturas orientadas a eventos e boas práticas de desenvolvimento em ambiente **Linux**.
+
+```ts
+const isaac = {
+  role:     "Full Stack Developer",
+  company:  "Signove",
+  location: "Campina Grande, PB – Brasil",
+  stack:    ["React", "Node.js", "JavaScript", "C++", "C#", "Docker", "Kafka"],
+  databases:["MySQL", "MongoDB", "PostgreSQL"],
+  english:  "intermediário 🇺🇸",
+}
+```
+
+---
+
+### 🚀 Stack principal
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### 💼 Experiência
+
+**Desenvolvedor Full Stack — Signove** `Abr. 2022 – presente`
+
+- 📊 Desenvolvimento de dashboard analítico hospitalar (React + Node.js + Docker + Nginx)
+- 🧩 Criação de widgets dinâmicos com drag-and-drop para múltiplos layouts e visões gerenciais
+- ⚡ Evolução arquitetural: de ingestão em MongoDB para pipeline orientado a eventos com Kafka
+- 🏥 Integração de equipamentos de UTI em tempo real com Qt C++ (Dräger, GE, Maquet)
+- 🔌 Servidor TCP em C# para protocolos proprietários de dispositivos médicos críticos
+- 🐧 Otimizações em ambiente Linux: resolução de memory leaks e alto uso de CPU
+
+**Estagiário Analista de Dados — Grupo Vicoa Brasil** `anterior`
+
+- 📈 Análise e tratamento de dados para suporte à tomada de decisão
+- 🗄️ Elaboração de relatórios e queries SQL
+
+---
+
+### 🎓 Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Técnico em Informática (Ensino Médio) | — | 2016 – 2018 |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaac-antonio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Trabalhando como desenvolvedor freelancer em software • Full Stack (Node.js · React · Express · JavaScript)</sub>
+</div>
