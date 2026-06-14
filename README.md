@@ -2,9 +2,8 @@
 
 # Olá, sou Isaac Antônio 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--antonio--barbosa-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/isaac-antonio-barbosa/)
-[![GitHub](https://img.shields.io/badge/GitHub-isaac--antonio-181717?style=flat-square&logo=github)](https://github.com/isaac-antonio)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--antonio--barbosa-0077B5?style=flat-square&logo=linkedin)]
+[![GitHub](https://img.shields.io/badge/GitHub-isaac--antonio-181717?style=flat-square&logo=github)]
 </div>
 
 ---
